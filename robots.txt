@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /sitemap_index.xml
+
+
+# Sitemap Submission
+
+Sitemap: http://www.narahari.com.my/sitemap_index.xml
